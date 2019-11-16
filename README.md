@@ -26,6 +26,6 @@ Aishwarya here. This is the competition hosted by kaggle to predict the house pr
     * Voting Regressor 
     * Stacking Regressor
     * Random Forest 
-    * Weighted Averahe Ensemble model
+    * Weighted Average Ensemble model
     
     
